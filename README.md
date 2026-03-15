@@ -37,7 +37,7 @@ The dashboard answers the following questions:
 - Which sales channel contributes the most to total sales?
 - What is the highest-selling product category?
 - What percentage of total orders were delivered successfully?
-- Dashboard Intercation <a href ="https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/vridhi%20dashboard.png">View Dashboard</a>
+- Dashboard Intercation <a href ="https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vridhi%20dashboard.png">View Dashboard</a>
 
 ---
 
@@ -54,7 +54,7 @@ The dashboard answers the following questions:
 
 ## Dashboard
 
-!![vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vridhi%20dashboard.png)
+![vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vridhi%20dashboard.png)
 
 ---
 
