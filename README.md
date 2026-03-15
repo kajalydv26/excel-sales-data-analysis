@@ -55,7 +55,7 @@ The dashboard answers the following questions:
 ## Dashboard
 Interactive dashboard created in Excel to visualize sales insights and allow filtering by category, state, channel, and customer demographics.
 
-[vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/vridhi%20dashboard.png)
+![vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/vridhi%20dashboard.png)
 
 ---
 
