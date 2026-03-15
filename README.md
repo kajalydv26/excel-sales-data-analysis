@@ -22,31 +22,22 @@ These insights help businesses make data-driven decisions to improve sales strat
 The dataset includes the following information:
 - <a href = "https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset </a>
 
-- Order ID
-- Customer Gender
-- Age Group
-- Sales Amount
-- Order Status
-- Sales Channel (Amazon, Flipkart, Myntra, etc.)
-- Product Category
-- State
-- Order Date
-
 ---
 
 ## Key Business Questions (KPIs)
 
 The dashboard answers the following questions:
 
-1. Compare sales and number of orders using a single chart.
-2. Which month recorded the highest sales and orders?
-3. Who purchased more products – men or women?
-4. What were the different order statuses in 2022?
-5. What are the top 10 states contributing to total sales?
-6. What is the relationship between age group and gender based on orders?
-7. Which sales channel contributes the most to total sales?
-8. What is the highest-selling product category?
-9. What percentage of total orders were delivered successfully?
+- Compare sales and number of orders using a single chart.
+- Which month recorded the highest sales and orders?
+- Who purchased more products – men or women?
+- hat were the different order statuses in 2022?
+- What are the top 10 states contributing to total sales?
+- What is the relationship between age group and gender based on orders?
+- Which sales channel contributes the most to total sales?
+- What is the highest-selling product category?
+- What percentage of total orders were delivered successfully?
+- Dashboard Intercation <a href ="
 
 ---
 
