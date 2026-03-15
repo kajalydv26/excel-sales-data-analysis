@@ -20,7 +20,7 @@ These insights help businesses make data-driven decisions to improve sales strat
 
 ## Dataset
 
-- <a href = "">Dataset </a>
+- <a href = "https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vridhi%20Store%20Data%20Analysis.xlsx">Dataset </a>
 
 ---
 
@@ -54,7 +54,7 @@ The dashboard answers the following questions:
 
 ## Dashboard
 
-!![vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/vridhi%20dashboard.png)
+!![vridhi dashboard]()
 
 ---
 
