@@ -37,25 +37,25 @@ The dashboard answers the following questions:
 - Which sales channel contributes the most to total sales?
 - What is the highest-selling product category?
 - What percentage of total orders were delivered successfully?
-- Dashboard Intercation <a href ="
+- Dashboard Intercation <a href ="https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/vridhi%20dashboard.png">View Dashboard</a>
 
 ---
 
 ## Project Process
 
-1. Verified the dataset for missing values and data inconsistencies.
-2. Cleaned and standardized data types, formats, and values.
-3. Created Pivot Tables to analyze key metrics.
-4. Built Pivot Charts for visual analysis.
-5. Combined all visualizations into a single interactive dashboard.
-6. Added slicers to enable dynamic filtering and better user interaction.
+- Verified the dataset for missing values and data inconsistencies.
+- Cleaned and standardized data types, formats, and values.
+- Created Pivot Tables to analyze key metrics.
+- Built Pivot Charts for visual analysis.
+- Combined all visualizations into a single interactive dashboard.
+- Added slicers to enable dynamic filtering and better user interaction.
 
 ---
 
 ## Dashboard
 Interactive dashboard created in Excel to visualize sales insights and allow filtering by category, state, channel, and customer demographics.
 
-(Add your dashboard screenshot here)
+
 
 ---
 
