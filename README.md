@@ -19,7 +19,7 @@ These insights help businesses make data-driven decisions to improve sales strat
 ---
 
 ## Dataset
-The dataset includes the following information:
+
 - <a href = "https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset </a>
 
 ---
